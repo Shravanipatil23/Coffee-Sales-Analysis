@@ -75,6 +75,10 @@ The final two-page report includes interactive charts, KPIs, and slicers to filt
 ## Insights and Results
 ### Key insights derived from the analysis:
 #### Page 1: 
+
+<img width="458" alt="Annotation 2024-10-06 110849" src="https://github.com/user-attachments/assets/7a2a4b9d-dc9a-4e93-b2f1-c8b583ddc3f5">
+
+
  - Quantities Sold: 214K
  - Total Transactions: 149.116K
  - Total Sales: 698.81K
@@ -98,6 +102,10 @@ The final two-page report includes interactive charts, KPIs, and slicers to filt
     - Total Sales of Lower Manhattan is 230K
 
 #### Page 2:
+
+<img width="362" alt="Annotation 2024-10-06 111105" src="https://github.com/user-attachments/assets/9fc24030-6ba2-4f2a-b417-a173de4f50e9">
+
+
 - The Waterfall Chart depicts the Week over Week sales and shows the total increase in the sales in the course of six months has increased by 75.6%
 - The Line Chart showscases the fall in total units of product sold and total sales each product wise by the cafeteria.
 - The Clustered Bar Chart shows the sales of each product category in each month, as observed the overall sales of all products (except Branded, Flavours, Loose Tea and Packaged Coffee) is the Highest in the month of May. The overall sales of all products is the Lowest in the month of February. 
